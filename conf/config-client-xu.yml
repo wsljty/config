@@ -4,5 +4,3 @@ data:
     username: fengzheng-dev999
     password: password-dev
 
-server:
-  port:9999
